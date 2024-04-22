@@ -35,6 +35,7 @@ function Table() {
             restaurant={selectedRestaurant}
             closeForm={() => setshowform(false)}
           />}
+          <h1 className=' my-2 font-bold text-2xl'>Lists of Restaurants</h1>
         <table>
           <thead>
             <tr>
