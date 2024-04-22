@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Restaurant One",
+    "address": "123 Main St",
+    "pincode": "12345",
+    "mobileNumber": "1234567890",
+    "email": "info@restaurantone.com",
+    "website": "www.restaurantone.com"
+  }
+]
