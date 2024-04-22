@@ -1,4 +1,9 @@
-# Simple Restaurant 
+# Simple Restaurant App 
+
+Prerequisites
+Before you begin, ensure you have the following installed on your machine
+Node.js
+npm
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
