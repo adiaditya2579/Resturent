@@ -1,6 +1,6 @@
 # Simple Restaurant App 
 
-Prerequisites
+# Prerequisites
 Before you begin, ensure you have the following installed on your machine
 Node.js
 npm
