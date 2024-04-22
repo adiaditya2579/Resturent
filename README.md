@@ -8,6 +8,7 @@ This is a Restaurant Management application built using React and Vite. It provi
 
 ## Tech Stack
 **Client:** React, TailwindCSS
+
 **Build Tool:** Vite
 
 ## Run Locally
